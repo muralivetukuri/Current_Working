@@ -1,0 +1,12 @@
+2020-10-10 01:45:55 INFO  Log:62 - ****************************************************************************************
+2020-10-10 01:45:55 INFO  Log:63 - $$$$$$$$$$$$$$$$$$$$$       S-T-A-R-T       GetNormalisationRecordsFromSpendAndConsumptionYOY        S-T-A-R-T     $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-10-10 01:50:16 INFO  Log:81 - Login Successfull
+2020-10-10 01:50:27 INFO  Log:81 - Clicked  workspace_lnk
+2020-10-10 01:50:27 INFO  Log:81 - Toos_btn is visible on the page
+2020-10-10 01:50:38 INFO  Log:81 - Clicked  workspace_lnk
+2020-10-10 01:50:38 INFO  Log:81 - workspace selected
+2020-10-10 01:50:56 INFO  Log:81 - Bubble : Analytics>Reporting>Spend and ConsumptionYOY Selected
+2020-10-10 01:51:29 INFO  Log:81 - ELECTRIC selected from utility dropdown
+2020-10-10 01:54:41 INFO  Log:81 - SpendConsumptionYOY_table records saved to OUTPUT file NormalisationYOYRecords sheet
+2020-10-10 01:54:42 INFO  Log:75 - XXXXXXXXXXXXXXXXXXXXXXX     -E---N---D       GetNormalisationRecordsFromSpendAndConsumptionYOY       E---N---D-     XXXXXXXXXXXXXXXXXXXXXX
+2020-10-10 01:54:42 INFO  Log:76 - ****************************************************************************************

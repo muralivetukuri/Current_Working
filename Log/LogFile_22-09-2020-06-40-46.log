@@ -1,0 +1,22 @@
+2020-09-22 18:40:46 INFO  Log:62 - ****************************************************************************************
+2020-09-22 18:40:46 INFO  Log:63 - $$$$$$$$$$$$$$$$$$$$$       S-T-A-R-T       Download_Validate_Spend_and_ConsumptionYOY_records_with_YOY_report        S-T-A-R-T     $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-09-22 18:41:19 INFO  Log:81 - Login Successfull
+2020-09-22 18:41:33 INFO  Log:81 - Clicked  workspace_lnk
+2020-09-22 18:41:36 INFO  Log:81 - Toos_btn is visible on the page
+2020-09-22 18:41:47 INFO  Log:81 - Clicked  workspace_lnk
+2020-09-22 18:41:47 INFO  Log:81 - workspace selected
+2020-09-22 18:42:08 INFO  Log:81 - Bubble : Analytics>Reporting>Spend and ConsumptionYOY Selected
+2020-09-22 18:42:52 INFO  Log:81 - ELECTRIC selected from utility dropdown
+2020-09-22 18:45:53 INFO  Log:81 - Forest Grove Selected
+2020-09-22 18:45:54 INFO  Log:81 - SpendConsumptionYOY_table records saved to OUTPUT file YOYRecords1 sheet
+2020-09-22 18:45:59 INFO  Log:81 - Generic exception e [stale element reference: element is not attached to the page document
+  (Session info: chrome=85.0.4183.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2EOAABF', ip: '192.168.0.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:63926}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ea5d20727e5dd6f21fb310fcb4933e49]
+2020-09-22 18:46:28 INFO  Log:81 - Bubble : Analytics>Reporting>Spend and ConsumptionYOY Selected
+2020-09-22 18:46:45 INFO  Log:75 - XXXXXXXXXXXXXXXXXXXXXXX     -E---N---D       Download_Validate_Spend_and_ConsumptionYOY_records_with_YOY_report       E---N---D-     XXXXXXXXXXXXXXXXXXXXXX
+2020-09-22 18:46:45 INFO  Log:76 - ****************************************************************************************

@@ -1,0 +1,11 @@
+2020-10-05 09:46:54 INFO  Log:62 - ****************************************************************************************
+2020-10-05 09:46:54 INFO  Log:63 - $$$$$$$$$$$$$$$$$$$$$       S-T-A-R-T       Download_Validate_Spend_and_ConsumptionYOY_records_with_YOY_report        S-T-A-R-T     $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-10-05 09:48:27 INFO  Log:81 - Login Successfull
+2020-10-05 09:48:38 INFO  Log:81 - Clicked  workspace_lnk
+2020-10-05 09:48:38 INFO  Log:81 - Toos_btn is visible on the page
+2020-10-05 09:48:48 INFO  Log:81 - Clicked  workspace_lnk
+2020-10-05 09:48:48 INFO  Log:81 - workspace selected
+2020-10-05 09:49:04 INFO  Log:81 - Bubble : Analytics>Reporting>Spend and ConsumptionYOY Selected
+2020-10-05 09:49:28 INFO  Log:81 - WATER selected from utility dropdown
+2020-10-05 09:50:28 INFO  Log:81 - Asbury Selected
+2020-10-05 09:50:28 INFO  Log:81 - SpendConsumptionYOY_table records saved to OUTPUT file YOYRecords1 sheet

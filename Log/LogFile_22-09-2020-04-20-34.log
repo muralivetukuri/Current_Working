@@ -1,0 +1,49 @@
+2020-09-22 16:20:35 INFO  Log:62 - ****************************************************************************************
+2020-09-22 16:20:35 INFO  Log:63 - $$$$$$$$$$$$$$$$$$$$$       S-T-A-R-T       Download_Validate_Spend_and_ConsumptionYOY_records_with_YOY_report        S-T-A-R-T     $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-09-22 16:21:33 INFO  Log:81 - Generic exception e [chrome not reachable
+  (Session info: chrome=85.0.4183.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2EOAABF', ip: '192.168.167.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60920}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: fce13b0a7dca418fa6a0e37b6c1441a1
+*** Element info: {Using=link text, value=WORKSPACE}]
+2020-09-22 16:21:45 INFO  Log:81 - Login Failed
+2020-09-22 16:21:57 INFO  Log:81 - Generic exception e [chrome not reachable
+  (Session info: chrome=85.0.4183.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2EOAABF', ip: '192.168.167.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60920}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: fce13b0a7dca418fa6a0e37b6c1441a1
+*** Element info: {Using=link text, value=WORKSPACE}]
+2020-09-22 16:22:19 INFO  Log:81 - Generic exception e [chrome not reachable
+  (Session info: chrome=85.0.4183.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2EOAABF', ip: '192.168.167.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60920}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: fce13b0a7dca418fa6a0e37b6c1441a1
+*** Element info: {Using=link text, value=WORKSPACE}]
+2020-09-22 16:22:32 INFO  Log:81 - Toos_btn is not visible on the page
+2020-09-22 16:22:54 INFO  Log:81 - Generic exception e [chrome not reachable
+  (Session info: chrome=85.0.4183.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2EOAABF', ip: '192.168.167.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60920}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: fce13b0a7dca418fa6a0e37b6c1441a1
+*** Element info: {Using=link text, value=WORKSPACE}]
+2020-09-22 16:22:54 INFO  Log:81 - workspace selected
+2020-09-22 16:23:18 INFO  Log:81 - An exception occured while taking screenshot null
+2020-09-22 16:23:18 INFO  Log:81 - Bubble : Analytics>Reporting>Spend and ConsumptionYOY Selection error
+2020-09-22 16:23:30 INFO  Log:81 - Generic exception e [chrome not reachable
+  (Session info: chrome=85.0.4183.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2EOAABF', ip: '192.168.167.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60920}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: fce13b0a7dca418fa6a0e37b6c1441a1
+*** Element info: {Using=id, value=ddlClient}]
+2020-09-22 16:23:44 INFO  Log:75 - XXXXXXXXXXXXXXXXXXXXXXX     -E---N---D       Download_Validate_Spend_and_ConsumptionYOY_records_with_YOY_report       E---N---D-     XXXXXXXXXXXXXXXXXXXXXX
+2020-09-22 16:23:44 INFO  Log:76 - ****************************************************************************************
